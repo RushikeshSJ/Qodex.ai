@@ -52,5 +52,16 @@ A beautiful and responsive Weather Dashboard built using **React.js** following 
 git clone https://github.com/your-username/weather-dashboard.git
 cd weather-dashboard
 
-### 2. Install Dependencies
+2. Install Dependencies
+npm install
 
+3. Add API Key
+Get your free API key from OpenWeatherMap and replace it in:
+// src/models/weatherModel.js
+const API_KEY = 'REPLACE_WITH_YOUR_ACTUAL_API_KEY';
+
+4. Start the Development Server
+npm run dev
+Visit http://localhost:5173 in your browser.
+
+5. 📸 Screenshots
