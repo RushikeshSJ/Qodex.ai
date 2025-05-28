@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react';
+import './App.css';
 import SearchBar from './views/SearchBar';
 import WeatherDisplay from './views/WeatherDisplay';
 import ForecastDisplay from './views/ForecastDisplay';
@@ -28,8 +29,8 @@ const App = () => {
   };
 
   return (
-    <div style={{ textAlign: 'center', padding: '2rem' }}>
-      <h1>Weather Dashboard</h1>
+    <div className="app-container">
+      <h1>Weather Dashboard by Rushikesh ❤️</h1>
       <SearchBar onSearch={setCity} />
       <ErrorDisplay message={error} />
       <WeatherDisplay weather={weather} unit={unit} toggleUnit={toggleUnit} />
