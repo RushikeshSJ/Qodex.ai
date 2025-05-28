@@ -51,3 +51,6 @@ A beautiful and responsive Weather Dashboard built using **React.js** following 
 ```bash
 git clone https://github.com/your-username/weather-dashboard.git
 cd weather-dashboard
+
+### 2. Install Dependencies
+
