@@ -65,3 +65,16 @@ npm run dev
 Visit http://localhost:5173 in your browser.
 
 5. 📸 Screenshots
+![Screenshot_28-5-2025_12130_localhost](https://github.com/user-attachments/assets/2d8cc27f-5494-439c-8d7f-7238d539777b)
+
+6. 📄 License
+This project is open-source and free for educational and personal use.
+
+7. 🙌 Acknowledgements
+React.js
+Vite
+OpenWeatherMap API
+
+8. 🔗 Connect
+Built with 💙 by Rushikesh
+📧 For queries: rushikeshjadhav2018@gmail.com
